@@ -31,4 +31,4 @@ Bot Paddle di chuyển chưa tối ưu.
 - Font: upheavtt.ttf from https://www.dafont.com/upheaval.font
 - SDL2: lazyfoo:https://lazyfoo.net/tutorials/SDL/index.php
 - Tài liệu ltnc : https://docs.google.com/document/d/1FZ3jTqHxtyZznNWiJmmve0zYu_aSliUqLP2OsMcdehQ/edit#heading=h.mps3zstdeza2
-- Tham khảo về pong:https://www.youtube.com/playlist?list=PLZd7ojlRK0byXW3dd-HnucM34JnCPyNkn
+- Tham khảo về pong(logic cua game):https://www.youtube.com/playlist?list=PLZd7ojlRK0byXW3dd-HnucM34JnCPyNkn
